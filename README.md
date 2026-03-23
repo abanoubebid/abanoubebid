@@ -35,7 +35,7 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/abanoub-ebid-b2a04b230/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
