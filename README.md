@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-* 💻 Backend Developer passionate about building scalable systems
+* 💻 Backend Developer
 * ⚙️ Specialized in **C# & ASP.NET Core**
 * 🗄️ Strong understanding of **Databases & API Design**
-* 🔐 Interested in **Backend Systems & Cybersecurity**
+* 🔐 Interested in **Backend Systems**
 * 📚 Currently learning advanced backend concepts & system design
 * 🎯 Goal: Become a **Professional Backend Engineer**
 
@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 
-`C#` `C++` `Java`
+`C#` `C++` 
 
 ### ⚙️ Backend
 
