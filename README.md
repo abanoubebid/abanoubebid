@@ -44,18 +44,35 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Bank System (C++)
+<table>
+  <tr>
+    <td align="center">
+      <b>Bank System</b><br>
+      C++ • OOP • File Handling<br>
+      <a href="https://github.com/abanoubebid/cpp-banking-system">🔗 View</a>
+    </td>
 
-* 📌 Description: Console-based banking system that simulates real banking operations
-* 🚀 Features:
+    <td align="center">
+      <b>Auth API</b><br>
+      ASP.NET Core • JWT<br>
+      <a href="#">🔗 View</a>
+    </td>
+  </tr>
 
-  * Create and manage bank accounts
-  * Deposit & withdraw money
-  * Balance tracking system
-  * File handling for data storage
-* 🛠️ Tech: `C++`, `OOP`, `File System`
-* 🔗 GitHub: https://github.com/abanoubebid/cpp-banking-system
+  <tr>
+    <td align="center">
+      <b>Blog API</b><br>
+      .NET • REST API<br>
+      <a href="#">🔗 View</a>
+    </td>
 
+    <td align="center">
+      <b>E-commerce API</b><br>
+      ASP.NET • SQL Server<br>
+      <a href="#">🔗 View</a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
