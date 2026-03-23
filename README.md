@@ -52,9 +52,13 @@
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="center">
+  <a href="mailto:abanoubebid1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
