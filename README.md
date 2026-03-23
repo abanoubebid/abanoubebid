@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
-<h3 align="center">🚀 Backend Developer | .NET & C# Specialist</h3>
+<h1 align="center">Hi 👋, I'm Abanoub!</h1>
+<h3 align="center">🚀 Backend Developer | .NET & C#</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -39,41 +39,6 @@
 ### 🖥️ Environment
 
 `macOS`
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Bank System</b><br>
-      C++ • OOP • File Handling<br>
-      <a href="https://github.com/abanoubebid/cpp-banking-system">🔗 View</a>
-    </td>
-
-    <td align="center">
-      <b>Auth API</b><br>
-      ASP.NET Core • JWT<br>
-      <a href="#">🔗 View</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Blog API</b><br>
-      .NET • REST API<br>
-      <a href="#">🔗 View</a>
-    </td>
-
-    <td align="center">
-      <b>E-commerce API</b><br>
-      ASP.NET • SQL Server<br>
-      <a href="#">🔗 View</a>
-    </td>
-  </tr>
-</table>
----
 
 ## 📊 GitHub Stats
 
