@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
+<h1 align="center">Hi 👋, I'm Abanoub!</h1>
 <h3 align="center">Backend Developer | .NET & C#</h3>
 
 ---
@@ -6,14 +6,14 @@
 ## 🚀 About Me
 - 🎓 IT Student & Backend Developer  
 - 💻 Specialized in **C# & .NET**  
-- 🔐 Interested in **Cybersecurity & Backend Systems**  
+- 🔐 Interested in Backend Systems**  
 - 📈 Always learning and improving my skills  
 - 🎯 Goal: Become a professional backend engineer  
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: **C#, C++, Java**
+- 💻 Languages: **C#, C++
 - ⚙️ Backend: **.NET, ASP.NET Core**
 - 🗄️ Databases: **SQL Server, MySQL**
 - 🔧 Tools: **Git, GitHub, Postman**
