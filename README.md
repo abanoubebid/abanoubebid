@@ -34,7 +34,7 @@
 
 ### 🔧 Tools & Technologies
 
-`Git` `GitHub` `Postman` `Linux Basics`
+`Git` `GitHub` `Linux Basics`
 
 ### 🖥️ Environment
 
