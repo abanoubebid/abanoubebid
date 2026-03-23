@@ -42,11 +42,8 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚧 **Coming Soon...**
-👉 (Start adding your projects here ASAP — even small ones!)
-
+## 📌 Projects
+<a herf="https://github.com/abanoubebid/cpp-banking-system">Bank System</a>
 ---
 
 ## 📊 GitHub Stats
@@ -76,8 +73,4 @@
 
 > “Discipline builds what motivation can’t.”
 
----
 
-## ⚡ Fun Fact
-
-I’m not just learning backend… I’m building my future one commit at a time 💻🔥
