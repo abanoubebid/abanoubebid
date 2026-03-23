@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 IT Student & Backend Developer  
+- 🎓 Backend Developer  
 - 💻 Specialized in **C# & .NET**  
 - 🔐 Interested in Backend Systems**  
 - 📈 Always learning and improving my skills  
@@ -17,7 +17,7 @@
 - ⚙️ Backend: **.NET, ASP.NET Core**
 - 🗄️ Databases: **SQL Server, MySQL**
 - 🔧 Tools: **Git, GitHub, Postman**
-- 🖥️ OS: **Windows & macOS**
+- 🖥️ OS: macOS
 
 ---
 
