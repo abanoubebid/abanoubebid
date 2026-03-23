@@ -53,7 +53,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/" target="_blank">
+  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
