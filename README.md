@@ -9,10 +9,10 @@
 ## 🧑‍💻 About Me
 
 * 🔐 Cybersecurity & Bug Bounty Learner focused on Web Security
-* 💻 Interested in penetration testing and discovering web vulnerabilities
-* 🛡️ Currently learning **OWASP Top 10**, web attacks, and security fundamentals
-* 🐧 Practicing Linux, networking, and security tools on macOS
-* 📚 Training on platforms like **TryHackMe** and studying penetration testing basics
+* 💻 Strong foundation in programming, problem solving, OOP, and Data Structures
+* 🛡️ Currently learning **OWASP Top 10**, web vulnerabilities, and penetration testing fundamentals
+* 🐧 Practicing Linux, networking, and security tools on macOS & Kali Linux
+* 📚 Training on platforms like **TryHackMe** and improving web security skills step by step
 * 🎯 Goal: Become a skilled cybersecurity professional and web security researcher
 
 ---
@@ -21,7 +21,11 @@
 
 ### 💻 Programming
 
-`C#` `C++` `Python`
+`C++` `C#` `Python`
+
+### 🧠 Computer Science Fundamentals
+
+`OOP` `Data Structures` `Problem Solving`
 
 ### 🔐 Cybersecurity
 
@@ -29,7 +33,7 @@
 
 ### 🧰 Tools
 
-`Burp Suite` `Git` `GitHub` 
+`Burp Suite` `Git` `GitHub` `Postman`
 
 ### 🌐 Networking & Databases
 
