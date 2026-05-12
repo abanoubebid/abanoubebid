@@ -33,7 +33,7 @@
 
 ### 🧰 Tools
 
-`Burp Suite` `Git` `GitHub` `Postman`
+`Burp Suite` `Git` `GitHub` 
 
 ### 🌐 Networking & Databases
 
