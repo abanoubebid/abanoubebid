@@ -1,36 +1,75 @@
-# Hi, I'm Abanoub 👋
+<h1 align="center">Hi 👋, I'm Abanoub</h1>
+<h3 align="center">Cybersecurity & IT Student | Beginner Penetration Tester</h3>
 
-Cybersecurity & IT Student
+---
 
-## About Me
+## 🚀 About Me
 
-- 🎓 IT Student
-- 🔐 Interested in Cybersecurity
-- 🐧 Learning Linux & Web Security
-- 💻 Studying C++ and Java
-- 🎯 Goal: Become a Penetration Tester
+- 🎓 IT Student at Faculty of Computers and Information
+- 🔐 Interested in Cybersecurity & Penetration Testing
+- 🐧 Learning Linux, Networking, Web Security, and C++
+- 📚 Currently studying Java & Cybersecurity Fundamentals
+- 🎯 Goal: Become a Professional Penetration Tester
 
-## Currently Learning
+---
 
-- Networking
-- Linux
+## 🛠️ Skills
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Cybersecurity & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📖 Currently Learning
+
 - Web Security
+- XSS Vulnerabilities
+- Networking Basics
+- Linux Administration
 - OWASP Top 10
-- Burp Suite
 
-## Tools
+---
 
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Git
-- VS Code
+## 📂 Featured Projects
 
-## GitHub Stats
+### 🔹 Simple Port Scanner
+A beginner Python tool for scanning open ports.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=github_dark)
+### 🔹 Login Page Clone Detection
+Learning phishing awareness and web security basics.
 
-## Connect
+### 🔹 Notes & Writeups
+Documenting my cybersecurity learning journey.
 
-- LinkedIn: YOUR_LINKEDIN
-- TryHackMe: YOUR_TRYHACKME
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)](YOUR_TRYHACKME)
+
+---
+
+## ⚡ Fun Fact
+
+> “Cybersecurity is not a destination, it's a continuous journey.”
