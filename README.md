@@ -6,39 +6,38 @@
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 
-* 💻 Backend Developer passionate about building scalable systems
-* ⚙️ Specialized in **C# & ASP.NET Core**
-* 🗄️ Strong understanding of **Databases & API Design**
-* 🔐 Interested in **Backend Systems & Cybersecurity**
-* 📚 Currently learning advanced backend concepts & system design
-* 🎯 Goal: Become a **Professional Backend Engineer**
+* 🔐 Cybersecurity & Bug Bounty Learner focused on Web Security
+* 💻 Interested in penetration testing and discovering web vulnerabilities
+* 🛡️ Currently learning **OWASP Top 10**, web attacks, and security fundamentals
+* 🐧 Practicing Linux, networking, and security tools on macOS
+* 📚 Training on platforms like **TryHackMe** and studying penetration testing basics
+* 🎯 Goal: Become a skilled cybersecurity professional and web security researcher
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming
 
-`C#` `C++` `Java`
+`C#` `C++` `Python`
 
-### ⚙️ Backend
+### 🔐 Cybersecurity
 
-`ASP.NET Core` `.NET` `REST APIs`
+`OWASP Top 10` `Web Security` `Linux Basics`
 
-### 🗄️ Database
+### 🧰 Tools
 
-`SQL Server` `MySQL`
+`Burp Suite` `Git` `GitHub` 
 
-### 🔧 Tools & Technologies
+### 🌐 Networking & Databases
 
-`Git` `GitHub` `Postman` `Linux Basics`
+`SQL`  `HTTP Basics`
 
 ### 🖥️ Environment
 
-`macOS`
+`macOS` `Kali Linux`
 
 ---
 
