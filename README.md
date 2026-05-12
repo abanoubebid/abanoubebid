@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
-<h3 align="center">🚀 Backend Developer | .NET & C# Specialist</h3>
+<h3 align="center">🚀 Cybersecurity Student | Learning Web Penetration Testing</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
