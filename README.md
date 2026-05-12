@@ -52,7 +52,7 @@ current_focus = [
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=tokyonight&custom_title=%20" alt="GitHub Stats" />
 </p>
 
 <p align="center">
