@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abanoub!</h1>
+# Hi there 👋 I'm Abanoub Ebid
 
 <div align="center">
 
@@ -48,13 +48,17 @@ current_focus = [
 | 🧪 Practice Platform | TryHackMe |
 
 ---
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux">
-<img src="https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux">
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge">
-<img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme">
-</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid1&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=abanoubebid1&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
 ---
 
 ## 🏆 Platforms
