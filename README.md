@@ -53,11 +53,11 @@ current_focus = [
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=abanoubebid&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com?user=abanoubebid&theme=github-dark&hide_border=true"/>
 
 </div>
 ---
