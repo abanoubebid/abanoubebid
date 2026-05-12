@@ -49,25 +49,6 @@ current_focus = [
 
 ---
 
-## 📊 Activity Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-9-00FF41?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-48-00FF41?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abanoubebid&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" />
-</p>
-
-## 🛡️ Cyber Security Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-black?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white" />
-</p>
----
 
 ## 🏆 Platforms
 
