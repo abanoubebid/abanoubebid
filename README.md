@@ -1,76 +1,75 @@
-# Hi 👋 I'm Abanoub Ebid
+<h1 align="center">Hi 👋, I'm Abanoub</h1>
+<h3 align="center">Cybersecurity & IT Student | Beginner Penetration Tester</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 IT Student at Faculty of Computers and Information
+- 🔐 Interested in Cybersecurity & Penetration Testing
+- 🐧 Learning Linux, Networking, Web Security, and C++
+- 📚 Currently studying Java & Cybersecurity Fundamentals
+- 🎯 Goal: Become a Professional Penetration Tester
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Cybersecurity & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📖 Currently Learning
+
+- Web Security
+- XSS Vulnerabilities
+- Networking Basics
+- Linux Administration
+- OWASP Top 10
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Simple Port Scanner
+A beginner Python tool for scanning open ports.
+
+### 🔹 Login Page Clone Detection
+Learning phishing awareness and web security basics.
+
+### 🔹 Notes & Writeups
+Documenting my cybersecurity learning journey.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Student+%F0%9F%8E%93;CTF+Player+%F0%9F%9A%A9;Pentesting+Enthusiast+%F0%9F%94%93;Future+Red+Teamer+%F0%9F%9B%A1%EF%B8%8F)
+![Stats](https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🧑‍💻 whoami
+## 🌐 Connect With Me
 
-```bash
-$ whoami
-→ Cybersecurity Student with a Programming Background
-→ Know C++, C#, Python, SQL, HTML, CSS, JavaScript
-→ Understand OOP & Data Structures (C++ / C#)
-→ Learning Web Application Attacks — currently: XSS
-→ Solving rooms on TryHackMe
-→ Using Kali Linux for hands-on practice
-→ Goal: Penetration Tester / Web Security Specialist
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)](YOUR_TRYHACKME)
 
 ---
 
-## 🎯 Current Focus
+## ⚡ Fun Fact
 
-```python
-current_focus = [
-    "XSS & Web Application Attacks",
-    "TryHackMe rooms & challenges",
-    "Kali Linux tools & workflow",
-    "Building security scripts with Python",
-]
-```
-
----
-
-## 🛠️ Skills & Tools
-
-| Category | Details |
-|---|---|
-| 💻 Languages | C++, C#, Python, SQL |
-| 🌐 Frontend | HTML, CSS, JavaScript |
-| 🧩 CS Fundamentals | OOP, Data Structures |
-| 🖥️ OS | Linux, Kali Linux |
-| 🔐 Web Security | XSS, Web Application Security |
-| 🧪 Practice Platform | TryHackMe |
-
----
-
-
-## 🏆 Platforms
-
-- 🟥 TryHackMe — [My Profile](https://tryhackme.com/p/bib0?tab=completed-rooms)
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-abanoubebid1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abanoubebid1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub%20Ebid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-ebid-b2a04b230/)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=abanoubebid1&color=00ff41&style=flat-square)
-
-*"The quieter you become, the more you are able to hear."* 🎩
-
-</div>
+> “Cybersecurity is not a destination, it's a continuous journey.”
