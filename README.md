@@ -49,14 +49,18 @@ current_focus = [
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=tokyonight&custom_title=GitHub%20Activity&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF41" alt="GitHub Stats" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abanoubebid&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&v=1" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=abanoubebid&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41" alt="Streak Stats" />
 </p>
 
 ---
