@@ -53,12 +53,13 @@ current_focus = [
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
 
-![Streak](https://streak-stats.demolab.com?user=abanoubebid&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubebid&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img src="https://streak-stats.demolab.com?user=abanoubebid&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
-
 ---
 
 ## 🏆 Platforms
