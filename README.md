@@ -51,13 +51,13 @@ current_focus = [
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abanoubebid&theme=github_dark)
-
-![Streak](https://streak-stats.demolab.com?user=abanoubebid&theme=github-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abanoubebid&theme=tokyonight&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" />
+</p>
 
 ---
 
