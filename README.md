@@ -42,27 +42,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Bank System (C++)
-
-* 📌 Description: Console-based banking system that simulates real banking operations
-* 🚀 Features:
-
-  * Create and manage bank accounts
-  * Deposit & withdraw money
-  * Balance tracking system
-  * File handling for data storage
-* 🛠️ Tech: `C++`, `OOP`, `File System`
-* 🔗 GitHub: https://github.com/abanoubebid/cpp-banking-system
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abanoubebid&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubebid&theme=tokyonight" />
 </p>
 
