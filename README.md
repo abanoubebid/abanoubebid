@@ -11,7 +11,7 @@
 * 🔐 Cybersecurity & Bug Bounty Learner focused on Web Security
 * 💻 Strong foundation in programming, problem solving, OOP, and Data Structures
 * 🛡️ Currently learning **OWASP Top 10**, web vulnerabilities, and penetration testing fundamentals
-* 🐧 Practicing Linux, networking, and security tools on macOS & Kali Linux
+* 🐧 Practicing Linux, networking, and security tools on Kali Linux
 * 📚 Training on platforms like **TryHackMe** and improving web security skills step by step
 * 🎯 Goal: Become a skilled cybersecurity professional and web security researcher
 
