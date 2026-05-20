@@ -29,7 +29,7 @@
 
 ### 🔐 Cybersecurity
 
-`OWASP Top 10` `Web Security` `Linux Basics`
+`OSCP-level Training` `Web Exploitation` `Linux Basics` `Active Directory` `CTF Player`
 
 ### 🧰 Tools
 
@@ -41,7 +41,7 @@
 
 ### 🖥️ Environment
 
-`macOS` `Kali Linux`
+`Kali Linux`
 
 ---
 
