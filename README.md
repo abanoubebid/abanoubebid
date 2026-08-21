@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
-<h3 align="center">🚀 Cybersecurity Student | Learning Web Penetration Testing</h3>
+<h3 align="center">🚀 Backend Developer | C# / .NET | Building Scalable, Secure APIs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,43 +8,40 @@
 ---
 ## 🧑‍💻 About Me
 
-* 🔐 Cybersecurity & Bug Bounty Learner focused on Web Security
-* 💻 Strong foundation in programming, problem solving, OOP, and Data Structures
-* 🛡️ Currently learning **OWASP Top 10**, web vulnerabilities, and penetration testing fundamentals
-* 🐧 Practicing Linux, networking, and security tools on Kali Linux
-* 📚 Training on platforms like **TryHackMe** and improving web security skills step by step
-* 🎯 Goal: Become a skilled cybersecurity professional and web security researcher
+* ⚙️ Backend Developer with a strong foundation in **OOP**, **Data Structures**, and **Problem Solving**
+* 🧠 Focused on building clean, maintainable systems using **SOLID Principles**
+* 🌐 Experienced in designing and consuming **RESTful APIs**
+* 🔐 Skilled in securing APIs with **JWT Authentication, Roles & Policies (ASP.NET Core)**
+* 🗄️ Comfortable working with databases: **SQL, T-SQL, ADO.NET, and Entity Framework Core**
+* 🏗️ Built a full real-world project (**DVLD**) applying database and OOP concepts end-to-end
+* 📚 Continuously leveling up through structured, project-based learning
+* 🎯 Goal: Become a strong backend engineer building reliable, production-grade systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
 `C++` `C#` `Python`
 
 ### 🧠 Computer Science Fundamentals
 
-`OOP` `Data Structures` `Problem Solving`
+`OOP` `SOLID Principles` `Data Structures` `Problem Solving`
 
-### 🔐 Cybersecurity
+### 🔙 Backend Development
 
-`OSCP-level Training` `Web Exploitation` `Linux Basics` `Active Directory` `CTF Player`
+`ASP.NET Core` `RESTful APIs` `JWT Authentication` `ADO.NET` `Entity Framework Core`
+
+### 🗄️ Databases
+
+`SQL` `T-SQL` `Database Design`
 
 ### 🧰 Tools
 
-`Burp Suite` `Git` `GitHub` 
-
-### 🌐 Networking & Databases
-
-`SQL`  `HTTP Basics`
-
-### 🖥️ Environment
-
-`Kali Linux`
+`Git` `GitHub` `Visual Studio`
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -70,4 +67,4 @@
 
 ## 💡 Mindset
 
-> “Discipline builds what motivation can’t.”
+> "Discipline builds what motivation can't."
