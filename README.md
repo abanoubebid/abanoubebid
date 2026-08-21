@@ -47,7 +47,7 @@
 
 ### 🏦 Bank Management System (C++)
 A console-based banking system built with C++, applying OOP principles and core data structures to manage accounts and transactions.
-🔗 [View Repository →](#) *(add your repo link here)*
+🔗 [[View Repository →](https://github.com/abanoubebid/Bank-System-CPP)]
 
 ---
 
