@@ -5,43 +5,39 @@
   <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:abanoubebid1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 ---
-
 ## 🧑‍💻 About Me
 
-Backend Developer with a solid foundation in **OOP, Data Structures, and SOLID Principles**, focused on building clean, secure, and scalable systems with **C# / .NET**.
-
-- 🌐 Designing & securing **RESTful APIs** (JWT Authentication, Roles & Policies)
-- 🗄️ Strong database skills — **SQL, T-SQL, ADO.NET, Entity Framework Core**
-- 🏦 Built a **Bank Management System in C++**, applying OOP & data structures to a real use case
-- 📚 Trained through a structured, project-based programming path (foundations → OOP → databases → backend)
-- 🎯 Open to backend / software development roles — ready to learn fast and contribute from day one
+* ⚙️ Backend Developer with a strong foundation in **OOP**, **Data Structures**, and **SOLID Principles**
+* 🌐 Designing & securing **RESTful APIs** — JWT Authentication, Roles & Policies
+* 🗄️ Strong database skills — **SQL, T-SQL, ADO.NET, Entity Framework Core**
+* 🏦 Built a **Bank Management System (C++)**, applying OOP & data structures to a real use case
+* 📚 Trained through a structured, project-based programming path — foundations → OOP → databases → backend
+* 🎯 Open to backend / software development roles — ready to learn fast and contribute from day one
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 💻 Languages
 
-**Core skills:** OOP · SOLID Principles · Data Structures · RESTful APIs · JWT Auth · ADO.NET · Database Design
+`C++` `C#`
+
+### 🧠 Fundamentals
+
+`OOP` `SOLID Principles` `Data Structures` `Problem Solving`
+
+### 🔙 Backend Development
+
+`ASP.NET Core` `RESTful APIs` `JWT Authentication` `ADO.NET` `Entity Framework Core`
+
+### 🗄️ Databases
+
+`SQL` `T-SQL` `Database Design`
+
+### 🧰 Tools
+
+`Git` `GitHub` `Visual Studio`
 
 ---
 
@@ -51,7 +47,7 @@ Backend Developer with a solid foundation in **OOP, Data Structures, and SOLID P
 
 ### 🏦 Bank Management System — C++
 Console-based banking system applying OOP and core data structures to manage accounts and transactions.
-🔗 [Repository](#) *(add link)*
+🔗 [Repository](https://github.com/abanoubebid/Bank-System-CPP)
 
 <!-- ### 🆕 Next Project Name
 Short 1-line description.
@@ -63,6 +59,20 @@ Short 1-line description.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubebid&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:abanoubebid1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
