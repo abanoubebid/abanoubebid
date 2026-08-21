@@ -13,7 +13,6 @@
 * 🌐 Experienced in designing and consuming **RESTful APIs**
 * 🔐 Skilled in securing APIs with **JWT Authentication, Roles & Policies (ASP.NET Core)**
 * 🗄️ Comfortable working with databases: **SQL, T-SQL, ADO.NET, and Entity Framework Core**
-* 🏗️ Built a full real-world project (**DVLD**) applying database and OOP concepts end-to-end
 * 📚 Continuously leveling up through structured, project-based learning
 * 🎯 Goal: Become a strong backend engineer building reliable, production-grade systems
 
@@ -23,7 +22,7 @@
 
 ### 💻 Languages
 
-`C++` `C#` `Python`
+`C++` `C#` 
 
 ### 🧠 Computer Science Fundamentals
 
