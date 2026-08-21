@@ -9,12 +9,13 @@
 ## 🧑‍💻 About Me
 
 * ⚙️ Backend Developer with a strong foundation in **OOP**, **Data Structures**, and **Problem Solving**
-* 🧠 Focused on building clean, maintainable systems using **SOLID Principles**
-* 🌐 Experienced in designing and consuming **RESTful APIs**
-* 🔐 Skilled in securing APIs with **JWT Authentication, Roles & Policies (ASP.NET Core)**
+* 🧠 Focused on writing clean, maintainable code using **SOLID Principles**
+* 🌐 Learning to design and consume **RESTful APIs**
+* 🔐 Studying API security with **JWT Authentication, Roles & Policies (ASP.NET Core)**
 * 🗄️ Comfortable working with databases: **SQL, T-SQL, ADO.NET, and Entity Framework Core**
+* 🏦 Built a **Bank Management System in C++**, applying OOP and data structures to a real-world use case
 * 📚 Continuously leveling up through structured, project-based learning
-* 🎯 Goal: Become a strong backend engineer building reliable, production-grade systems
+* 🎯 Open to backend / software development roles — eager to learn, build, and grow with a team
 
 ---
 
@@ -22,7 +23,7 @@
 
 ### 💻 Languages
 
-`C++` `C#` 
+`C++` `C#`
 
 ### 🧠 Computer Science Fundamentals
 
@@ -39,6 +40,14 @@
 ### 🧰 Tools
 
 `Git` `GitHub` `Visual Studio`
+
+---
+
+## 📌 Featured Project
+
+### 🏦 Bank Management System (C++)
+A console-based banking system built with C++, applying OOP principles and core data structures to manage accounts and transactions.
+🔗 [View Repository →](#) *(add your repo link here)*
 
 ---
 
