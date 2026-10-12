@@ -82,10 +82,10 @@ Short 1-line description.
   <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abanoubebid1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abanoubebid1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Contact Me"/>
+</a>
 
 
 ---
