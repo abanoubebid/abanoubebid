@@ -48,8 +48,10 @@
 
 ## 🎓 Training & Certifications
 
-* 🔴 **TryHackMe — Jr Penetration Tester Path** (preparing for PT1) — In progress
-* 🌐 **TryHackMe — Web Application Pentesting Path** (preparing for WEB1) — In progress
+* 🔴 **TryHackMe — Jr Penetration Tester Path** 
+* 🌐 **TryHackMe — Web Application Pentesting Path**
+* 🕷️ **TryHackMe — Web Application Red Teaming Path**
+* ⚔️ **TryHackMe — Red Teaming Path**
 * 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** — Trainee
 
 ---
