@@ -77,17 +77,16 @@ Short 1-line description.
 
 ## 🌐 Connect with Me
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-
-<p>
   <a href="mailto:abanoubebid1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Contact Me"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 ---
 
