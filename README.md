@@ -1,72 +1,69 @@
 <h1 align="center">Hi 👋, I'm Abanoub Ebid</h1>
-<h3 align="center">🛡️ Aspiring Penetration Tester | Web Application Security | C# / .NET Background</h3>
+<h3 align="center">🛡️ Junior Penetration Tester </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abanoubebid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 ## 🧑‍💻 About Me
 
-* 🎓 Third-year student at the **Egyptian E-Learning University (EELU)**, trained at the **Digital Egypt Pioneers Initiative (DEPI)**
-* 🛡️ Training for a **Junior Penetration Tester** role through TryHackMe's **Jr Penetration Tester** and **Web Application Pentesting** paths (in progress)
+* 🛡️ Aspiring **Penetration Tester** focused on **Web Application Security**
 * 🔍 Practicing **web vulnerability testing**, **network scanning** and **enumeration** in lab environments
-* ⚙️ My **backend development** background (C#, ASP.NET Core, JWT, SQL) helps me understand how applications are built, and where **authentication, access control and injection flaws** appear
-* 🏦 Built a **Bank Management System (C++)**, applying OOP and data structures to a real use case
-* 🎯 Open to **junior penetration testing / application security** roles, ready to learn fast and contribute from day one
+* 🌐 Hands-on with **OWASP Top 10** vulnerabilities — SQL Injection, XSS, IDOR, Broken Authentication & Access Control
+* 📚 Training through TryHackMe's **Jr Penetration Tester** and **Web Application Pentesting** paths, and the **Digital Egypt Pioneers Initiative (DEPI)**
+* 📝 Documenting every finding with its **severity, impact and fix**
+* 🎯 Open to **junior penetration testing / application security** roles — ready to learn fast and contribute from day one
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🛡️ Security
+### 🛡️ Security Tools
 
-`Burp Suite` `Nmap` `Metasploit` `OWASP Top 10` `Linux (Kali)` `Networking (TCP/IP, DNS, HTTP/HTTPS)`
+`Burp Suite` `Nmap` `Metasploit` `Gobuster` `ffuf` `Hydra` `Wireshark`
 
-### 🕳️ Vulnerabilities I Practice
+### 🕳️ Vulnerabilities
 
-`SQL Injection` `XSS` `IDOR` `Broken Authentication` `Broken Access Control`
+`SQL Injection` `XSS` `IDOR` `Broken Authentication` `Broken Access Control` `OWASP Top 10`
+
+### 🔎 Reconnaissance & Enumeration
+
+`Port Scanning` `Service Enumeration` `Directory Brute-Forcing`
+
+### 🌐 Networking
+
+`TCP/IP` `DNS` `HTTP/HTTPS` `Common Ports & Protocols`
+
+### 🖥️ Operating Systems
+
+`Kali Linux` `Linux` `Windows` `Privilege Escalation Basics`
 
 ### 💻 Languages
 
-`C++` `C#` `SQL`
+`C#` `C++` `SQL` `python`
 
-### 🔙 Backend Background
+### 🧰 Platforms
 
-`ASP.NET Core` `RESTful APIs` `JWT Authentication` `ADO.NET` `Entity Framework Core`
-
-### 🧠 Fundamentals
-
-`OOP` `SOLID Principles` `Data Structures` `Problem Solving`
-
-### 🧰 Tools
-
-`Git` `GitHub` `Visual Studio` `TryHackMe`
+`TryHackMe` `Git` `GitHub`
 
 ---
 
-## 🎓 Training
+## 🎓 Training & Certifications
 
-* 🔴 **TryHackMe: Jr Penetration Tester Path** (preparing for PT1), in progress
-* 🌐 **TryHackMe: Web Application Pentesting Path** (preparing for WEB1), in progress
-* 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)**, trainee
+* 🔴 **TryHackMe — Jr Penetration Tester Path** (preparing for PT1) — In progress
+* 🌐 **TryHackMe — Web Application Pentesting Path** (preparing for WEB1) — In progress
+* 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** — Trainee
 
 ---
 
 ## 📌 Projects
 
-<!-- Add new projects here as you build more, just copy this block -->
-
-### 🏦 Bank Management System: C++
-Console-based banking system applying OOP and core data structures to manage accounts and transactions.
-🔗 [Repository](https://github.com/abanoubebid/Bank-System-CPP)
+<!-- Add new projects here as you build more — just copy this block -->
 
 ### 🧪 TryHackMe Labs
 Hands-on practice in a safe lab environment: network scanning and enumeration with Nmap, and testing web applications for common vulnerabilities with Burp Suite.
 
 <!-- ### 🆕 Next Project Name
 Short 1-line description.
-🔗 [Repository](#) -->
+🔗 [Write-up](#) -->
 
 ---
 
@@ -85,7 +82,7 @@ Short 1-line description.
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:abanoubebid1@gmail.com">
+  <a href="mailto:abanoubebid4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
