@@ -78,15 +78,16 @@ Short 1-line description.
 ## 🌐 Connect with Me
 
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/">
+  <a href="https://www.linkedin.com/in/abanoub-ebid-b2a04b230/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abanoubebid1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Contact Me"/>
-</a>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abanoubebid1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Contact Me"/>
+  </a>
+</p>
 
 ---
 
