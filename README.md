@@ -82,8 +82,10 @@ Short 1-line description.
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
+
+<p>
   <a href="mailto:abanoubebid1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Contact Me"/>
   </a>
 </p>
 
