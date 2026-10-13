@@ -5,7 +5,7 @@
 ---
 ## 🧑‍💻 About Me
 
-* 🛡️ Aspiring **Penetration Tester** focused on **Web Application Security**
+* 🛡️**Penetration Tester** focused on **Web Application Security**
 * 🔍 Practicing **web vulnerability testing**, **network scanning** and **enumeration** in lab environments
 * 🌐 Hands-on with **OWASP Top 10** vulnerabilities — SQL Injection, XSS, IDOR, Broken Authentication & Access Control
 * 📚 Training through TryHackMe's **Jr Penetration Tester** and **Web Application Pentesting** paths, and the **Digital Egypt Pioneers Initiative (DEPI)**
